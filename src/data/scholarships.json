@@ -1,0 +1,440 @@
+[
+  {
+    "id": "sch-001",
+    "name": "Chevening Scholarship",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "fields": [
+      "Business",
+      "Public Policy",
+      "Law",
+      "International Relations",
+      "Any"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 45000,
+    "minCGPA": 3.0,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.5
+      }
+    ],
+    "deadline": "2026-11-01",
+    "applyUrl": "https://www.chevening.org/apply/",
+    "monthlyCostOfLivingUSD": 1600,
+    "notes": "UK government award; requires 2+ years leadership experience."
+  },
+  {
+    "id": "sch-002",
+    "name": "DAAD EPOS Scholarship",
+    "country": "Germany",
+    "region": "Europe",
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Environmental Science",
+      "Public Health"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 12000,
+    "minCGPA": 3.0,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.0
+      }
+    ],
+    "deadline": "2026-08-31",
+    "applyUrl": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200",
+    "monthlyCostOfLivingUSD": 950,
+    "notes": "Targets developing-country applicants in public-interest fields."
+  },
+  {
+    "id": "sch-003",
+    "name": "Fulbright Foreign Student Program",
+    "country": "United States",
+    "region": "North America",
+    "fields": [
+      "Any"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 50000,
+    "minCGPA": 3.3,
+    "requiredTests": [
+      {
+        "test": "TOEFL",
+        "minScore": 90
+      }
+    ],
+    "deadline": "2026-10-15",
+    "applyUrl": "https://foreign.fulbrightonline.org/apply",
+    "monthlyCostOfLivingUSD": 1800,
+    "notes": "Highly competitive; strong preference for leadership and research fit."
+  },
+  {
+    "id": "sch-004",
+    "name": "Australia Awards Scholarship",
+    "country": "Australia",
+    "region": "Oceania",
+    "fields": [
+      "Public Health",
+      "Agriculture",
+      "Business",
+      "Engineering"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 40000,
+    "minCGPA": 2.8,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.5
+      }
+    ],
+    "deadline": "2026-04-30",
+    "applyUrl": "https://www.dfat.gov.au/people-to-people/australia-awards/how-to-apply-for-an-australia-awards-scholarship",
+    "monthlyCostOfLivingUSD": 1700,
+    "notes": "Priority on development-impact fields; includes return-home commitment."
+  },
+  {
+    "id": "sch-005",
+    "name": "Holland Scholarship",
+    "country": "Netherlands",
+    "region": "Europe",
+    "fields": [
+      "Business",
+      "Data Science",
+      "Computer Science",
+      "Design"
+    ],
+    "degreeLevel": "Undergraduate",
+    "fullyFunded": false,
+    "amountUSD": 5500,
+    "minCGPA": 2.7,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.0
+      }
+    ],
+    "deadline": "2026-05-01",
+    "applyUrl": "https://www.studyinnl.org/finances/nl-scholarship",
+    "monthlyCostOfLivingUSD": 1100,
+    "notes": "Renamed from 'Holland Scholarship' to 'NL Scholarship' in 2023; one-time award, meant to cover a gap rather than full cost."
+  },
+  {
+    "id": "sch-006",
+    "name": "MEXT Scholarship",
+    "country": "Japan",
+    "region": "Asia",
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Data Science",
+      "Design"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 15000,
+    "minCGPA": 2.9,
+    "requiredTests": [],
+    "deadline": "2026-06-01",
+    "applyUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "monthlyCostOfLivingUSD": 1000,
+    "notes": "Monthly stipend + tuition waiver; Japanese embassy application route."
+  },
+  {
+    "id": "sch-007",
+    "name": "Swedish Institute Scholarship",
+    "country": "Sweden",
+    "region": "Europe",
+    "fields": [
+      "Environmental Science",
+      "Public Health",
+      "Data Science",
+      "Business"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 20000,
+    "minCGPA": 3.1,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.5
+      }
+    ],
+    "deadline": "2026-02-15",
+    "applyUrl": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+    "monthlyCostOfLivingUSD": 1300,
+    "notes": "Leadership potential and sustainability focus weighted heavily."
+  },
+  {
+    "id": "sch-008",
+    "name": "Vanier Canada Graduate Scholarship",
+    "country": "Canada",
+    "region": "North America",
+    "fields": [
+      "Computer Science",
+      "Engineering",
+      "Public Health"
+    ],
+    "degreeLevel": "PhD",
+    "fullyFunded": true,
+    "amountUSD": 50000,
+    "minCGPA": 3.5,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 7.0
+      }
+    ],
+    "deadline": "2026-11-03",
+    "applyUrl": "https://vanier.gc.ca/en/eligibility-admissibilite.html",
+    "monthlyCostOfLivingUSD": 1500,
+    "notes": "As of 2026, Vanier CGS has stopped accepting new applications and is being folded into the new Canada Graduate Research Scholarship - Doctoral program; check the link for the current program status before relying on this listing."
+  },
+  {
+    "id": "sch-009",
+    "name": "Erasmus Mundus Joint Master",
+    "country": "Multiple (EU)",
+    "region": "Europe",
+    "fields": [
+      "Data Science",
+      "Business",
+      "Environmental Science",
+      "Design"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 30000,
+    "minCGPA": 2.9,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.0
+      }
+    ],
+    "deadline": "2026-01-15",
+    "applyUrl": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+    "monthlyCostOfLivingUSD": 1200,
+    "notes": "Study across 2-3 EU countries during the program."
+  },
+  {
+    "id": "sch-010",
+    "name": "Commonwealth Shared Scholarship",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "fields": [
+      "Public Health",
+      "Engineering",
+      "Environmental Science",
+      "Any"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 25000,
+    "minCGPA": 2.8,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.5
+      }
+    ],
+    "deadline": "2026-03-20",
+    "applyUrl": "https://cscuk.fcdo.gov.uk/apply/",
+    "monthlyCostOfLivingUSD": 1500,
+    "notes": "Open only to applicants from eligible developing Commonwealth countries."
+  },
+  {
+    "id": "sch-011",
+    "name": "Knight-Hennessy Scholars",
+    "country": "United States",
+    "region": "North America",
+    "fields": [
+      "Any"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 90000,
+    "minCGPA": 3.6,
+    "requiredTests": [
+      {
+        "test": "TOEFL",
+        "minScore": 100
+      }
+    ],
+    "deadline": "2026-10-08",
+    "applyUrl": "https://knight-hennessy.stanford.edu/admission",
+    "monthlyCostOfLivingUSD": 2200,
+    "notes": "Stanford-based, extremely competitive, leadership-driven cohort model."
+  },
+  {
+    "id": "sch-012",
+    "name": "Turing Scheme Placement Grant",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "fields": [
+      "Computer Science",
+      "Design",
+      "Business"
+    ],
+    "degreeLevel": "Undergraduate",
+    "fullyFunded": false,
+    "amountUSD": 4000,
+    "minCGPA": 2.5,
+    "requiredTests": [],
+    "deadline": "2026-05-30",
+    "applyUrl": "https://www.turing-scheme.org.uk/",
+    "monthlyCostOfLivingUSD": 1500,
+    "notes": "Students don't apply to Turing directly -- their UK university applies for a project allocation and then selects/funds students internally, so check with your university's international office."
+  },
+  {
+    "id": "sch-013",
+    "name": "Monbukagakusho Research Scholarship",
+    "country": "Japan",
+    "region": "Asia",
+    "fields": [
+      "Engineering",
+      "Environmental Science",
+      "Public Health"
+    ],
+    "degreeLevel": "PhD",
+    "fullyFunded": true,
+    "amountUSD": 18000,
+    "minCGPA": 3.0,
+    "requiredTests": [],
+    "deadline": "2026-05-31",
+    "applyUrl": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "monthlyCostOfLivingUSD": 1000,
+    "notes": "Research-student track with option to convert to full PhD enrollment."
+  },
+  {
+    "id": "sch-014",
+    "name": "New Zealand ASEAN Scholar Award",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "fields": [
+      "Business",
+      "Public Health",
+      "Environmental Science"
+    ],
+    "degreeLevel": "Undergraduate",
+    "fullyFunded": true,
+    "amountUSD": 22000,
+    "minCGPA": 2.7,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.0
+      }
+    ],
+    "deadline": "2026-04-01",
+    "applyUrl": "https://www.mfat.govt.nz/en/aid-and-development/scholarships/types-of-scholarships/",
+    "monthlyCostOfLivingUSD": 1400,
+    "notes": "Limited to applicants from select South/Southeast Asian countries."
+  },
+  {
+    "id": "sch-015",
+    "name": "Rhodes Scholarship",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "fields": [
+      "Any"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 60000,
+    "minCGPA": 3.5,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 7.0
+      }
+    ],
+    "deadline": "2026-10-01",
+    "applyUrl": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/",
+    "monthlyCostOfLivingUSD": 1900,
+    "notes": "Oxford-based; strong emphasis on character and community service."
+  },
+  {
+    "id": "sch-016",
+    "name": "Gates Cambridge Scholarship",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "fields": [
+      "Computer Science",
+      "Public Health",
+      "Data Science"
+    ],
+    "degreeLevel": "PhD",
+    "fullyFunded": true,
+    "amountUSD": 55000,
+    "minCGPA": 3.6,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 7.0
+      }
+    ],
+    "deadline": "2026-12-03",
+    "applyUrl": "https://www.gatescambridge.org/apply/how-to-apply/",
+    "monthlyCostOfLivingUSD": 1700,
+    "notes": "Cambridge-based; assesses intellectual ability and leadership potential."
+  },
+  {
+    "id": "sch-017",
+    "name": "ETH Zurich Excellence Scholarship",
+    "country": "Switzerland",
+    "region": "Europe",
+    "fields": [
+      "Engineering",
+      "Computer Science",
+      "Data Science"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": true,
+    "amountUSD": 13000,
+    "minCGPA": 3.4,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 7.0
+      }
+    ],
+    "deadline": "2026-12-15",
+    "applyUrl": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarship.html",
+    "monthlyCostOfLivingUSD": 2000,
+    "notes": "Top-decile academic record expected; no separate application form."
+  },
+  {
+    "id": "sch-018",
+    "name": "KAAD Scholarship",
+    "country": "Germany",
+    "region": "Europe",
+    "fields": [
+      "Public Health",
+      "Business",
+      "Law"
+    ],
+    "degreeLevel": "Graduate",
+    "fullyFunded": false,
+    "amountUSD": 9000,
+    "minCGPA": 2.7,
+    "requiredTests": [
+      {
+        "test": "IELTS",
+        "minScore": 6.0
+      }
+    ],
+    "deadline": "2026-06-30",
+    "applyUrl": "https://www.kaad.de/en/scholarship-application",
+    "monthlyCostOfLivingUSD": 950,
+    "notes": "Faith-affiliated foundation; values community engagement."
+  }
+]

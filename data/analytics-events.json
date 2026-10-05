@@ -1,0 +1,44 @@
+[
+  {
+    "type": "scholarship_search",
+    "country": "Any",
+    "subject": "Computer Science",
+    "tier": "pro",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "createdAt": "2026-09-02T10:55:47.145Z"
+  },
+  {
+    "type": "career_search",
+    "country": "Any",
+    "subject": "Computer Science",
+    "role": "Software Engineer",
+    "tier": "pro",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "createdAt": "2026-09-02T10:56:01.460Z"
+  },
+  {
+    "type": "scholarship_search",
+    "country": "Any",
+    "subject": "Computer Science",
+    "tier": "pro",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "createdAt": "2026-09-22T11:06:12.335Z"
+  },
+  {
+    "type": "career_search",
+    "country": "Any",
+    "subject": "Computer Science",
+    "role": "Software Engineer",
+    "tier": "pro",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "createdAt": "2026-09-22T11:06:20.983Z"
+  },
+  {
+    "type": "scholarship_search",
+    "country": "Any",
+    "subject": "Computer Science",
+    "tier": "pro",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "createdAt": "2026-09-22T11:06:48.081Z"
+  }
+]

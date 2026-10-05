@@ -1,0 +1,14 @@
+[
+  {
+    "id": "txn_dev_7750be57-01db-47b6-a4e4-2f3ebf1476ee",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "provider": "stripe",
+    "currency": "USD",
+    "listedAmount": 9,
+    "amount": 9,
+    "status": "completed",
+    "createdAt": "2026-09-02T10:55:40.682Z",
+    "completedAt": "2026-09-02T10:55:40.690Z",
+    "providerRef": "dev-simulated"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "role": "Software Engineer",
+    "relatedDegrees": ["Computer Science", "Engineering"],
+    "coreSkills": ["Data Structures & Algorithms", "Git & Version Control", "A Backend Language (Python/Java/Go)", "REST API Design", "SQL"],
+    "recommendedSkills": ["Cloud Basics (AWS/GCP/Azure)", "Docker & Containers", "System Design Fundamentals", "Testing (Unit/Integration)"],
+    "niceToHaveSkills": ["CI/CD Pipelines", "Kubernetes", "GraphQL"],
+    "phases": [
+      { "phase": 1, "title": "Foundations", "durationWeeks": 6, "skills": ["Data Structures & Algorithms", "Git & Version Control", "SQL"], "resources": [
+        { "name": "CS50x", "type": "Course", "free": true, "provider": "Harvard/edX" },
+        { "name": "The Odin Project", "type": "Course", "free": true, "provider": "The Odin Project" }
+      ]},
+      { "phase": 2, "title": "Backend & APIs", "durationWeeks": 8, "skills": ["A Backend Language (Python/Java/Go)", "REST API Design", "Testing (Unit/Integration)"], "resources": [
+        { "name": "Backend Developer Path", "type": "Course", "free": false, "provider": "Codecademy" },
+        { "name": "Build a REST API project", "type": "Project", "free": true, "provider": "Self-directed" }
+      ]},
+      { "phase": 3, "title": "Cloud & Scale", "durationWeeks": 6, "skills": ["Cloud Basics (AWS/GCP/Azure)", "Docker & Containers", "System Design Fundamentals"], "resources": [
+        { "name": "AWS Cloud Practitioner", "type": "Certification", "free": false, "provider": "AWS" },
+        { "name": "Docker for Beginners", "type": "Course", "free": true, "provider": "Docker Docs" }
+      ]}
+    ]
+  },
+  {
+    "role": "Data Analyst",
+    "relatedDegrees": ["Data Science", "Business", "Computer Science"],
+    "coreSkills": ["SQL", "Excel/Sheets", "Data Visualization (Tableau/Power BI)", "Statistics Fundamentals"],
+    "recommendedSkills": ["Python (Pandas)", "A/B Testing", "Dashboarding"],
+    "niceToHaveSkills": ["Machine Learning Basics", "R"],
+    "phases": [
+      { "phase": 1, "title": "Data Foundations", "durationWeeks": 5, "skills": ["SQL", "Excel/Sheets", "Statistics Fundamentals"], "resources": [
+        { "name": "Google Data Analytics Certificate", "type": "Certification", "free": false, "provider": "Coursera" },
+        { "name": "Mode SQL Tutorial", "type": "Course", "free": true, "provider": "Mode Analytics" }
+      ]},
+      { "phase": 2, "title": "Visualization & Storytelling", "durationWeeks": 5, "skills": ["Data Visualization (Tableau/Power BI)", "Dashboarding"], "resources": [
+        { "name": "Tableau Public Training", "type": "Course", "free": true, "provider": "Tableau" }
+      ]},
+      { "phase": 3, "title": "Programmatic Analysis", "durationWeeks": 6, "skills": ["Python (Pandas)", "A/B Testing"], "resources": [
+        { "name": "Python for Data Analysis", "type": "Book", "free": false, "provider": "O'Reilly" }
+      ]}
+    ]
+  },
+  {
+    "role": "Business Analyst",
+    "relatedDegrees": ["Business"],
+    "coreSkills": ["Excel/Sheets", "Requirements Gathering", "SQL Basics", "Process Mapping"],
+    "recommendedSkills": ["Data Visualization (Tableau/Power BI)", "Agile/Scrum", "Financial Modeling"],
+    "niceToHaveSkills": ["Python Basics", "Six Sigma"],
+    "phases": [
+      { "phase": 1, "title": "Analyst Foundations", "durationWeeks": 4, "skills": ["Excel/Sheets", "Requirements Gathering"], "resources": [
+        { "name": "Business Analysis Fundamentals", "type": "Course", "free": false, "provider": "LinkedIn Learning" }
+      ]},
+      { "phase": 2, "title": "Process & Data", "durationWeeks": 6, "skills": ["Process Mapping", "SQL Basics", "Data Visualization (Tableau/Power BI)"], "resources": [
+        { "name": "SQL for Business Analysts", "type": "Course", "free": true, "provider": "Khan Academy" }
+      ]},
+      { "phase": 3, "title": "Delivery & Strategy", "durationWeeks": 5, "skills": ["Agile/Scrum", "Financial Modeling"], "resources": [
+        { "name": "CBAP Prep Guide", "type": "Certification", "free": false, "provider": "IIBA" }
+      ]}
+    ]
+  },
+  {
+    "role": "Environmental Consultant",
+    "relatedDegrees": ["Environmental Science", "Engineering"],
+    "coreSkills": ["Environmental Impact Assessment", "GIS Mapping", "Regulatory Compliance"],
+    "recommendedSkills": ["Data Analysis", "Sustainability Reporting (ESG)", "Report Writing"],
+    "niceToHaveSkills": ["Python for Environmental Data", "Remote Sensing"],
+    "phases": [
+      { "phase": 1, "title": "Core Practice", "durationWeeks": 6, "skills": ["Environmental Impact Assessment", "Regulatory Compliance"], "resources": [
+        { "name": "Environmental Policy Fundamentals", "type": "Course", "free": true, "provider": "Coursera" }
+      ]},
+      { "phase": 2, "title": "Spatial & Data Tools", "durationWeeks": 6, "skills": ["GIS Mapping", "Data Analysis"], "resources": [
+        { "name": "QGIS for Beginners", "type": "Course", "free": true, "provider": "QGIS.org" }
+      ]},
+      { "phase": 3, "title": "Reporting & ESG", "durationWeeks": 4, "skills": ["Sustainability Reporting (ESG)", "Report Writing"], "resources": [
+        { "name": "ESG Reporting Certificate", "type": "Certification", "free": false, "provider": "CFA Institute" }
+      ]}
+    ]
+  },
+  {
+    "role": "Product Designer",
+    "relatedDegrees": ["Design", "Business"],
+    "coreSkills": ["User Research", "Wireframing & Prototyping", "Figma", "Visual Design Principles"],
+    "recommendedSkills": ["Design Systems", "Usability Testing", "Basic HTML/CSS"],
+    "niceToHaveSkills": ["Motion Design", "Front-end Frameworks"],
+    "phases": [
+      { "phase": 1, "title": "Design Foundations", "durationWeeks": 5, "skills": ["User Research", "Visual Design Principles"], "resources": [
+        { "name": "Google UX Design Certificate", "type": "Certification", "free": false, "provider": "Coursera" }
+      ]},
+      { "phase": 2, "title": "Tooling & Systems", "durationWeeks": 5, "skills": ["Figma", "Wireframing & Prototyping", "Design Systems"], "resources": [
+        { "name": "Figma Academy", "type": "Course", "free": true, "provider": "Figma" }
+      ]},
+      { "phase": 3, "title": "Validation", "durationWeeks": 4, "skills": ["Usability Testing", "Basic HTML/CSS"], "resources": [
+        { "name": "Build a portfolio case study", "type": "Project", "free": true, "provider": "Self-directed" }
+      ]}
+    ]
+  },
+  {
+    "role": "Public Health Specialist",
+    "relatedDegrees": ["Public Health"],
+    "coreSkills": ["Epidemiology Basics", "Biostatistics", "Health Policy Analysis"],
+    "recommendedSkills": ["Data Visualization (Tableau/Power BI)", "Grant Writing", "Program Evaluation"],
+    "niceToHaveSkills": ["R for Health Data", "GIS Mapping"],
+    "phases": [
+      { "phase": 1, "title": "Core Public Health", "durationWeeks": 6, "skills": ["Epidemiology Basics", "Biostatistics"], "resources": [
+        { "name": "Epidemiology for Public Health", "type": "Course", "free": true, "provider": "Johns Hopkins/Coursera" }
+      ]},
+      { "phase": 2, "title": "Policy & Programs", "durationWeeks": 6, "skills": ["Health Policy Analysis", "Program Evaluation"], "resources": [
+        { "name": "Health Policy 101", "type": "Course", "free": true, "provider": "edX" }
+      ]},
+      { "phase": 3, "title": "Funding & Communication", "durationWeeks": 4, "skills": ["Grant Writing", "Data Visualization (Tableau/Power BI)"], "resources": [
+        { "name": "Grant Writing Fundamentals", "type": "Course", "free": false, "provider": "LinkedIn Learning" }
+      ]}
+    ]
+  }
+]

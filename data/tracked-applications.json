@@ -1,0 +1,24 @@
+[
+  {
+    "id": "430dd60a-aeff-4c91-bd13-435b1c08f0b7",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "scholarshipId": "sch-012",
+    "scholarshipName": "Turing Scheme Placement Grant",
+    "country": "United Kingdom",
+    "deadline": "2026-05-30",
+    "applyUrl": "https://www.turing-scheme.org.uk/",
+    "notifiedThresholds": [],
+    "createdAt": "2026-09-22T11:06:53.077Z"
+  },
+  {
+    "id": "c6ace711-f7d8-4188-8dda-0fc667d24116",
+    "userId": "5233e1fc-7e85-40fb-96e2-584fd1d3880b",
+    "scholarshipId": "sch-001",
+    "scholarshipName": "Chevening Scholarship",
+    "country": "United Kingdom",
+    "deadline": "2026-11-01",
+    "applyUrl": "https://www.chevening.org/apply/",
+    "notifiedThresholds": [],
+    "createdAt": "2026-09-22T11:06:58.300Z"
+  }
+]
